@@ -13,6 +13,4 @@ It helps users generate **interview questions and answers** interactively.
 
 ---
 
-## 🏗️ Project Structure
 
-/Interview-QA-Chatbot/ │── app.py # Streamlit UI for chatbot │── helper.py # Handles embeddings, LLM, and chatbot logic │── requirements.txt # Python dependencies │── README.md # Project documentation │── faiss_index/ # FAISS vectorstore (pre-built) │── data/ # Optional: Raw data for embedding
