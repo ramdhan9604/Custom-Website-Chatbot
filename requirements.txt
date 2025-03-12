@@ -1,0 +1,13 @@
+langchain
+langchain-community
+pypdf
+groq
+sentence_transformers
+tiktoken
+tokenizers
+faiss-cpu
+unstructured
+nltk
+langchain_groq
+streamlit
+torch
